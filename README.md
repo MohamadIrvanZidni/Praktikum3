@@ -40,3 +40,8 @@ Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
 7. Tampilan hasil ke layar
 
 ![Output Program](https://user-images.githubusercontent.com/115876072/197690508-f0b837e8-3241-4c60-84f8-5a0fc7f229f9.png)
+
+Flowchart Menghitung Luas dan Keliling Lingkaran
+-
+
+![Flowchart_menghitung-luas-keliling-lingkaran](https://user-images.githubusercontent.com/115876072/197691840-1ccd6a75-9e98-4e1a-b7cb-83300643fd5a.png)
