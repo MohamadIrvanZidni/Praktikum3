@@ -2,14 +2,17 @@
 
 Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman Pertemuan-6
 
+Nama     : Mohamad Irvan Zidni
 
-Nama    : Mohamad Irvan Zidni
+NIM      : 312210308
 
-NIM     : 312210308
-
-Kelas   : TI.22.A.3
+Kelas    : TI.22.A.3
 
 ===========================================================================
+
+Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
+-
+
 1. Buat File Menghitung Luas Lingkaran
 
 ![Buat File](https://user-images.githubusercontent.com/115876072/197689567-e8184849-7cf2-4406-811c-43eee4f47e2b.png)
