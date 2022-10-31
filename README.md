@@ -9,7 +9,7 @@
 ## Kelas    : TI.22.A.3
 
 # Latihan 1
--
+
 1. Penggunaan End
 
 ![Penggunaan End](https://user-images.githubusercontent.com/115876072/198936483-6197b578-4851-45fb-933e-3e568f279c22.png)
@@ -86,7 +86,6 @@ Output :
 ![Output String Format1](https://user-images.githubusercontent.com/115876072/198937713-6f50629c-aa5b-4294-87a8-f20283569d7b.png)
 
 # Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
--
 
 1. Buat File Menghitung Luas Lingkaran
 
@@ -135,6 +134,5 @@ Output :
 
 
 # Flowchart Menghitung Luas dan Keliling Lingkaran
--
 
 ![Flowchart py](https://user-images.githubusercontent.com/115876072/198930934-65319087-aebf-4796-b65c-c4efab81fe7b.png)
