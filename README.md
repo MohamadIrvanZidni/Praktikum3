@@ -8,6 +8,19 @@
 
 ## Kelas    : TI.22.A.3
 
+# Latihan 1
+1. Penggunaan End
+![Penggunaan End](https://user-images.githubusercontent.com/115876072/198936483-6197b578-4851-45fb-933e-3e568f279c22.png)
+
+2. Penggunaan Separator
+![Penggunaan Separator](https://user-images.githubusercontent.com/115876072/198936507-2cffe74a-61cd-4f6b-a285-7f001162a0ab.png)
+
+3. Penggunaan String -1
+![String Format](https://user-images.githubusercontent.com/115876072/198936522-dd5fff18-13b7-4ba5-967c-1fa63bba0942.png)
+
+4. Penggunaan String -2
+![String Format1](https://user-images.githubusercontent.com/115876072/198936539-90dd5beb-a76c-48ea-ae0b-ba06c10e9bba.png)
+
 # Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
 -
 
