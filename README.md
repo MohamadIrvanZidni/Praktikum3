@@ -9,6 +9,7 @@
 ## Kelas    : TI.22.A.3
 
 # Latihan 1
+-
 1. Penggunaan End
 
 ![Penggunaan End](https://user-images.githubusercontent.com/115876072/198936483-6197b578-4851-45fb-933e-3e568f279c22.png)
@@ -131,7 +132,7 @@ Output :
 
 ![Output Program](https://user-images.githubusercontent.com/115876072/197690508-f0b837e8-3241-4c60-84f8-5a0fc7f229f9.png)
 
-========================================================================
+
 
 # Flowchart Menghitung Luas dan Keliling Lingkaran
 -
