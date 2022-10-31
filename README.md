@@ -22,6 +22,10 @@
     print('Y')
     print('Z')
 
+Output :
+
+![Output Penggunaan End](https://user-images.githubusercontent.com/115876072/198937626-719738ac-f234-4bc1-8f08-8d2a5e20729f.png)
+
 2. Penggunaan Separator
 
 ![Penggunaan Separator](https://user-images.githubusercontent.com/115876072/198936507-2cffe74a-61cd-4f6b-a285-7f001162a0ab.png)
@@ -33,6 +37,10 @@
     print(w, x, y, z, sep='')
     print(w, x, y, z, sep=':')
     print(w, x, y, z, sep='-----')
+
+Output :
+
+![Output Penggunaan Separator](https://user-images.githubusercontent.com/115876072/198937656-dfb2c31e-58e7-4be9-ad14-5d4816ffa8a1.png)
 
 3. Penggunaan String -1
 
@@ -51,6 +59,10 @@
     print(9, 10**9)
     print(10, 10**10)
 
+Output :
+
+![Output String Format](https://user-images.githubusercontent.com/115876072/198937677-e3f351b1-2407-4583-903a-c6369af24cf4.png)
+
 4. Penggunaan String -2
 
 ![String Format1](https://user-images.githubusercontent.com/115876072/198936539-90dd5beb-a76c-48ea-ae0b-ba06c10e9bba.png)
@@ -67,6 +79,10 @@
     print('{0:>3} {1:>16}'. format(8, 10**8))
     print('{0:>3} {1:>16}'. format(9, 10**9))
     print('{0:>3} {1:>16}'. format(10, 10**10))
+
+Output :
+
+![Output String Format1](https://user-images.githubusercontent.com/115876072/198937713-6f50629c-aa5b-4294-87a8-f20283569d7b.png)
 
 # Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
 -
