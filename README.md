@@ -87,6 +87,8 @@ Output :
 
 # Latihan 2
 
+Program :
+
 ![Code Latihan](https://user-images.githubusercontent.com/115876072/198938694-5247c0a7-17ec-42ef-b6b7-438908b3688e.png)
 
     print("Latihan 2")
@@ -111,6 +113,27 @@ Output :
 Output :
 
 ![Output Code](https://user-images.githubusercontent.com/115876072/198938777-1063af70-d79d-4837-a63a-fa05743ab254.png)
+
+# Latihan 3
+
+Program :
+
+![Code Belah Ketupat](https://user-images.githubusercontent.com/115876072/198939273-657992bf-a70f-4cc2-bc28-a8e97fd304b5.png)
+
+    #Belah Ketupat
+    print('{0:>16}'.format("*"))
+    print('{0:>17}'.format("***"))
+    print('{0:>18}'.format("*****"))
+    print('{0:>19}'.format("*******"))
+    print('{0:>20}'.format("*********"))
+    print('{0:>19}'.format("*******"))
+    print('{0:>18}'.format("*****"))
+    print('{0:>17}'.format("***"))
+    print('{0:>16}'.format("*"))
+
+Output :
+
+![Output Belah Ketupat](https://user-images.githubusercontent.com/115876072/198939299-dae12019-8a69-40ef-88ad-9257ab227f0b.png)
 
 # Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
 
