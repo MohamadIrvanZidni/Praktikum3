@@ -85,6 +85,33 @@ Output :
 
 ![Output String Format1](https://user-images.githubusercontent.com/115876072/198937713-6f50629c-aa5b-4294-87a8-f20283569d7b.png)
 
+# Latihan 2
+
+![Code Latihan](https://user-images.githubusercontent.com/115876072/198938694-5247c0a7-17ec-42ef-b6b7-438908b3688e.png)
+
+    print("Latihan 2")
+
+    #input nilai variabel
+    a = input("Masukkan nilai a : ")
+    b = input("Masukkan nilai b : ")
+
+    #cetak nilai variabel
+    print("Variabel a : ", a)
+    print("Variabel b : ", b)
+
+    #cetak hasil operasi kedua variabel dengan String Format
+    print("Hasil Penggabungan {0}&{1}=%d".format(a,b)%int(a+b))
+
+    #konversi nilai variabel
+    a = int(a)
+    b = int(b)
+    print("Hasil Penjumlahan {0}+{1}=%d".format(a,b)%int(a+b))
+    print("Hasil Pembagian {0}/{1}=%d".format(a,b)%int(a/b))
+
+Output :
+
+![Output Code](https://user-images.githubusercontent.com/115876072/198938777-1063af70-d79d-4837-a63a-fa05743ab254.png)
+
 # Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
 
 1. Buat File Menghitung Luas Lingkaran
