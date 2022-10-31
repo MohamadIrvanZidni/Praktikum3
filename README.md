@@ -10,16 +10,63 @@
 
 # Latihan 1
 1. Penggunaan End
+
 ![Penggunaan End](https://user-images.githubusercontent.com/115876072/198936483-6197b578-4851-45fb-933e-3e568f279c22.png)
 
+    #penggunaan end
+    print('A', end='')
+    print('B', end='')
+    print('C', end='')
+    print()
+    print('X')
+    print('Y')
+    print('Z')
+
 2. Penggunaan Separator
+
 ![Penggunaan Separator](https://user-images.githubusercontent.com/115876072/198936507-2cffe74a-61cd-4f6b-a285-7f001162a0ab.png)
 
+    #penggunaan separator
+    w, x, y, z = 10, 15, 20, 25
+    print(w, x, y, z)
+    print(w, x, y, z, sep=',')
+    print(w, x, y, z, sep='')
+    print(w, x, y, z, sep=':')
+    print(w, x, y, z, sep='-----')
+
 3. Penggunaan String -1
+
 ![String Format](https://user-images.githubusercontent.com/115876072/198936522-dd5fff18-13b7-4ba5-967c-1fa63bba0942.png)
 
+    #string format
+    print(0, 10**0)
+    print(1, 10**1)
+    print(2, 10**2)
+    print(3, 10**3)
+    print(4, 10**4)
+    print(5, 10**5)
+    print(6, 10**6)
+    print(7, 10**7)
+    print(8, 10**8)
+    print(9, 10**9)
+    print(10, 10**10)
+
 4. Penggunaan String -2
+
 ![String Format1](https://user-images.githubusercontent.com/115876072/198936539-90dd5beb-a76c-48ea-ae0b-ba06c10e9bba.png)
+
+    #string format
+    print('{0:>3} {1:>16}'. format(0, 10**0))
+    print('{0:>3} {1:>16}'. format(1, 10**1))
+    print('{0:>3} {1:>16}'. format(2, 10**2))
+    print('{0:>3} {1:>16}'. format(3, 10**3))
+    print('{0:>3} {1:>16}'. format(4, 10**4))
+    print('{0:>3} {1:>16}'. format(5, 10**5))
+    print('{0:>3} {1:>16}'. format(6, 10**6))
+    print('{0:>3} {1:>16}'. format(7, 10**7))
+    print('{0:>3} {1:>16}'. format(8, 10**8))
+    print('{0:>3} {1:>16}'. format(9, 10**9))
+    print('{0:>3} {1:>16}'. format(10, 10**10))
 
 # Program Menghitung Luas dan Keliling Lingkaran Menggunakan Python
 -
