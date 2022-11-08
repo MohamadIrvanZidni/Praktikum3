@@ -12,7 +12,7 @@ Kelas    : TI.22.A.3
 
 1. Penggunaan End
 
-![Penggunaan End](https://user-images.githubusercontent.com/115876072/198936483-6197b578-4851-45fb-933e-3e568f279c22.png)
+1[Code](Foto/Penggunaan%20End.png)
 
     #penggunaan end
     print('A', end='')
@@ -25,11 +25,11 @@ Kelas    : TI.22.A.3
 
 Output :
 
-![Output Penggunaan End](https://user-images.githubusercontent.com/115876072/198937626-719738ac-f234-4bc1-8f08-8d2a5e20729f.png)
+1[Output](Foto/Output%20Penggunaan%20End.png)
 
 2. Penggunaan Separator
 
-![Penggunaan Separator](https://user-images.githubusercontent.com/115876072/198936507-2cffe74a-61cd-4f6b-a285-7f001162a0ab.png)
+![Code](Foto/Penggunaan%20Separator.png)
 
     #penggunaan separator
     w, x, y, z = 10, 15, 20, 25
@@ -41,11 +41,11 @@ Output :
 
 Output :
 
-![Output Penggunaan Separator](https://user-images.githubusercontent.com/115876072/198937656-dfb2c31e-58e7-4be9-ad14-5d4816ffa8a1.png)
+![Output](Foto/Output%20Penggunaan%20Separator.png)
 
 3. Penggunaan String -1
 
-![String Format](https://user-images.githubusercontent.com/115876072/198936522-dd5fff18-13b7-4ba5-967c-1fa63bba0942.png)
+![Code](Foto/String%20Format.png)
 
     #string format
     print(0, 10**0)
@@ -62,11 +62,11 @@ Output :
 
 Output :
 
-![Output String Format](https://user-images.githubusercontent.com/115876072/198937677-e3f351b1-2407-4583-903a-c6369af24cf4.png)
+![Output](Foto/Output%20String%20Format.png)
 
 4. Penggunaan String -2
 
-![String Format1](https://user-images.githubusercontent.com/115876072/198936539-90dd5beb-a76c-48ea-ae0b-ba06c10e9bba.png)
+![Code](Foto/String%20Format1.png)
 
     #string format
     print('{0:>3} {1:>16}'. format(0, 10**0))
@@ -83,7 +83,7 @@ Output :
 
 Output :
 
-![Output String Format1](https://user-images.githubusercontent.com/115876072/198937713-6f50629c-aa5b-4294-87a8-f20283569d7b.png)
+![Output](Foto/Output%20String%20Format1.png)
 
 # Latihan 2
 
