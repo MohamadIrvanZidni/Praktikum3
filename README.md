@@ -9,6 +9,7 @@ NIM      : 312210308
 Kelas    : TI.22.A.3
 
 | No | Daftar Isi | Link |
+| -- | ---------- | ---- |
 | 1  | Latihan 1 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-1) |
 | 2  | Latihan 2 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-2) |
 | 3  | Latihan 3 | [Click Here](https://github.com/MohamadIrvanZidni/Praktikum3#latihan-3) |
